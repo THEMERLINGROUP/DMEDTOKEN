@@ -1,0 +1,25 @@
+{
+  "name": "dmedtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THEMERLINGROUP/DMEDTOKEN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THEMERLINGROUP/DMEDTOKEN/issues"
+  },
+  "homepage": "https://github.com/THEMERLINGROUP/DMEDTOKEN#readme",
+  "dependencies": {
+    "ether.js": "^1.0.0"
+  }
+}
